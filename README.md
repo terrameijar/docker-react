@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Making a small change to start a build
+Making a small change to start a build.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
